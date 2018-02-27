@@ -1,0 +1,10 @@
+{
+  "author_name": "Your name here please",
+  "author_mail": "Your email",
+  "app_name": "",
+  "app_description": "Tell shortly what will your app do",
+  "app_url": "example.com",
+  "app_version": "yyyy.mm.dd.1",
+  "package_name": "{{ cookiecutter.app_name.lower().replace('-', '_') }}",
+  "sentry_url": ""
+}

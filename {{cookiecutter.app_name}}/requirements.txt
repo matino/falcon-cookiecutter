@@ -1,0 +1,4 @@
+cython==0.27.3
+falcon==1.4.1
+uwsgi==2.0.17
+raven==6.6.0
